@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @AmiciNoctis
-- 👀 I’m interested in Front-End technologies and Mathematics
-- 🌱 I’m currently learning JavaScript and Node.js
 
 <div>
   <a href="https://github.com/AmiciNoctis">
